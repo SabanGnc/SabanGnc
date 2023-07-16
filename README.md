@@ -16,6 +16,9 @@
 🔎 GitHub profilimdeki projelerimi keşfedebilir ve takip edebilirsiniz. Herhangi bir geri bildirim veya öneriye açığım ve teknolojiyle ilgili konularda konuşmayı ve yeni insanlarla tanışmayı dört gözle bekliyorum. 🌟 Bana katılın ve birlikte harika şeyler başaralım!
 
 🙏 Teşekkür ederim ve harika bir gün geçirmenizi dilerim! 🌞
+[![Followers](https://img.shields.io/github/followers/SabanGnc?label=Followers&style=social)](https://github.com/SabanGnc)
+[![Following](https://img.shields.io/github/following/SabanGnc?style=social)](https://github.com/SabanGnc)
+
 
 
 
