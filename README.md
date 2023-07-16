@@ -4,7 +4,8 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
 </p>
-[![Followers](https://img.shields.io/github/followers/SabanGnc?label=Followers)](https://github.com/SabanGnc)
+[![shutdown](https://github-readme-stats.vercel.app/api/pin/?username=SabanGnc&repo=projeadı&show_owner=true)](https://github.com/SabanGnc/projeadı)
+
 
 
 
