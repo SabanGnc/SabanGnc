@@ -21,6 +21,8 @@
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=SabanGnc&show_icons=true&theme=radical) 
+![Followers](https://img.shields.io/github/followers/kullanıcıadınız?style=social)
+
 
 
 
