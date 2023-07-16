@@ -1,3 +1,6 @@
+![image](https://github.com/SabanGnc/SabanGnc/assets/139702707/9ed419df-9a84-49fe-93ef-b60d3d2f91cd)
+
+
 ### Merhaba! Ben Şaban Birkan Genç 👋
 
 🌟 Yazılım geliştirme konusunda tutkulu ve teknolojiye ilgili biriyim. C# konusunda az da olsa bilgi sahibiyim, Python'da ise orta düzeyde yeteneklere sahibim. 📚💻 Sürekli öğrenmeye ve kendimi geliştirmeye odaklanıyorum, çünkü yazılım dünyası sürekli olarak değişiyor.
