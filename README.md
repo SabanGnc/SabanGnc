@@ -1,6 +1,6 @@
 ### Merhaba! Ben Şaban Birkan Genç 👋
 
-Yazılım geliştirme konusunda tutkulu ve teknolojiye ilgili biriyim. C# konusunda az da olsa bilgi sahibiyim, Python'da ise orta düzeyde yeteneklere sahibim. 📚💻 Sürekli öğrenmeye ve kendimi geliştirmeye odaklanıyorum, çünkü yazılım dünyası sürekli olarak değişiyor.
+🌟 Yazılım geliştirme konusunda tutkulu ve teknolojiye ilgili biriyim. C# konusunda az da olsa bilgi sahibiyim, Python'da ise orta düzeyde yeteneklere sahibim. 📚💻 Sürekli öğrenmeye ve kendimi geliştirmeye odaklanıyorum, çünkü yazılım dünyası sürekli olarak değişiyor.
 
 🔍 GitHub profilimde, farklı projelerde çalıştığım ve kişisel projelerimi paylaştığım birçok repository bulabilirsiniz. 🚀 İlgilendiğim alanlar arasında oyun geliştirme 🎮, 2D ve 3D modelleme 🎨, veri analizi 📊 ve web uygulamaları 💻 bulunuyor. Bu alanlarda daha derinleşmek ve yeni teknolojileri keşfetmek için sürekli çaba sarf ediyorum.
 
