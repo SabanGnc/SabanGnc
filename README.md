@@ -12,4 +12,6 @@
 
 🙏 Teşekkür ederim ve harika bir gün geçirmenizi dilerim! 🌞
 
+
+
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=SabanGnc&show_icons=true&theme=radical)
