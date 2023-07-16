@@ -15,3 +15,6 @@
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=SabanGnc&show_icons=true&theme=radical)
+
+[![Kişisel Web Sitem](https://img.shields.io/badge/-Kişisel Web Sitem-FF5722?style=flat&logo=blogger&logoColor=white)](https://www.kisiselblogum.com/)
+
