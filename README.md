@@ -11,3 +11,6 @@
 🔎 GitHub profilimdeki projelerimi keşfedebilir ve takip edebilirsiniz. Herhangi bir geri bildirim veya öneriye açığım ve teknolojiyle ilgili konularda konuşmayı ve yeni insanlarla tanışmayı dört gözle bekliyorum. 🌟 Bana katılın ve birlikte harika şeyler başaralım!
 
 🙏 Teşekkür ederim ve harika bir gün geçirmenizi dilerim! 🌞
+
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
+
