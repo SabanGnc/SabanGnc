@@ -17,17 +17,13 @@
 
 🙏 Teşekkür ederim ve harika bir gün geçirmenizi dilerim! 🌞
 
-<p align="center">
-  <a href="https://github.com/SabanGnc">
-    <img src="https://img.shields.io/github/followers/SabanGnc?label=Followers&style=social" alt="Followers">
-  </a>
-</p>
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=SabanGnc&show_icons=true&theme=radical)
 
 
 
-[![Proje Adı](https://github-readme-stats.vercel.app/api/pin/?username=SabanGnc&repo=shutdown&show_owner=true)](https://github.com/SabanGnc/shutdown)
+[![Proje Adı](https://github-readme-stats.vercel.app/api/pin/?username=SabanGnc&repo=shutdown&show_owner=true&theme=dark)](https://github.com/SabanGnc/shutdown)
+
 
 
