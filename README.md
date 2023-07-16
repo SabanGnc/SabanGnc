@@ -22,12 +22,6 @@
     <img src="https://img.shields.io/github/followers/SabanGnc?label=Followers&style=social" alt="Followers">
   </a>
 </p>
-<p align="center">
-  <a href="https://github.com/SabanGnc?tab=following">
-    <img src="https://img.shields.io/github/following/SabanGnc?label=Following&style=social" alt="Following">
-  </a>
-</p>
-
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=SabanGnc&show_icons=true&theme=radical)
