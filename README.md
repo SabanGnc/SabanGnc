@@ -23,7 +23,7 @@
 
 
 
-[![Proje Adı](https://github-readme-stats.vercel.app/api/pin/?username=SabanGnc&repo=shutdown&show_owner=true&theme=radical&bg_color=000000&text_color=FFFFFF&icon_color=FF0000)](https://github.com/SabanGnc/shutdown)
+[![Proje Adı](https://github-readme-stats.vercel.app/api/pin/?username=SabanGnc&repo=shutdown&show_owner=true&bg_color=0D1117&text_color=C9D1D9&icon_color=58A6FF)](https://github.com/SabanGnc/shutdown)
 
 
 
