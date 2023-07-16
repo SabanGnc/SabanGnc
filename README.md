@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white" alt="C#">
 </p>
-[![Followers](https://img.shields.io/github/followers/SabanGnc?label=Followers&style=social)](https://github.com/SabanGnc)
+![Followers](https://img.shields.io/github/followers/SabanGnc?label=Followers&style=social)](https://github.com/SabanGnc)
 
 
 ### Merhaba! Ben Şaban Birkan Genç 👋
@@ -21,7 +21,7 @@
 
 
 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=SabanGnc&show_icons=true&theme=radical) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=SabanGnc&show_icons=true&theme=radical)
 
 
 
