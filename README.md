@@ -33,6 +33,6 @@
 | C#      | 0            |
 | Python  | 1            |
 
-[![Rozet](![687474~1](https://github.com/SabanGnc/SabanGnc/assets/139702707/5094dee5-9a62-4e76-97d7-e0889a27a24b))](link_to_project_or_external_page)
+
 
 
