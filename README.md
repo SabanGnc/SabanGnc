@@ -26,6 +26,11 @@
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=SabanGnc&show_icons=true&theme=radical)
 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=SabanGnc&theme=dark&border_radius=4.50&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=470)](https://git.io/streak-stats)
+
+
+
+
 
 [![Proje Adı](https://github-readme-stats.vercel.app/api/pin/?username=SabanGnc&repo=shutdown&show_owner=true&theme=dark)](https://github.com/SabanGnc/shutdown)
 
@@ -43,4 +48,7 @@
 📧 Email: sabangenc95@gmail.com<br>
 💬 Discord: @vespagnc<br>
 </p>
+
+
+
 
