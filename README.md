@@ -28,6 +28,9 @@
 [![Proje Adı](https://github-readme-stats.vercel.app/api/pin/?username=SabanGnc&repo=shutdown&show_owner=true&theme=dark)](https://github.com/SabanGnc/shutdown)
 
 
-![Language Stats]([kopyaladığınız_URL](https://github.com/SabanGnc/github-language-stats.git)https://github.com/SabanGnc/github-language-stats.git)
-
+| Dil     | Proje Sayısı |
+|---------|--------------|
+| C#      | 10           |
+| Python  | 5            |
+| Java    | 3            |
 
