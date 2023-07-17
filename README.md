@@ -17,6 +17,8 @@
 
 🙏 Teşekkür ederim ve harika bir gün geçirmenizi dilerim! 🌞
 
+![Language Stats]([kopyaladığınız_URL](https://raw.githubusercontent.com/SabanGnc/github-language-stats/main/languages.md))
+
 
 
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=SabanGnc&show_icons=true&theme=radical)
