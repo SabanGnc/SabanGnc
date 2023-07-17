@@ -24,19 +24,24 @@
 
 
 <div align="center">
+  <a href="https://github.com/SabanGnc">
+    <img src="https://github-readme-stats.vercel.app/api?username=SabanGnc&show_icons=true&theme=radical" alt="Github Stats" width="468">
+  </a>
+</div>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=SabanGnc&show_icons=true&theme=radical)
+<div align="center">
+  <a href="https://streak-stats.demolab.com?user=SabanGnc&theme=radical&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=468">
+    <img src="https://streak-stats.demolab.com?user=SabanGnc&theme=radical&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=468" alt="GitHub Streak" width="468">
+  </a>
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SabanGnc&theme=radical&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=468)](https://git.io/streak-stats)
-
-<p align="center">
+<div align="center">
   <a href="https://github.com/SabanGnc/shutdown">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=SabanGnc&repo=shutdown&show_owner=true&theme=radical" alt="Proje Adı" width="468">
   </a>
-</p>
-
-
 </div>
+
+<br/>
 
 <div align="center">
 
@@ -46,6 +51,7 @@
 | Python  | 1            |
 
 </div>
+
 
 <h3 align="center">Connect with me:</h3> 
 <p align="center">
