@@ -29,7 +29,12 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SabanGnc&theme=radical&locale=tr&date_format=j%20M%5B%20Y%5D&card_width=468)](https://git.io/streak-stats)
 
-[![Proje Adı](https://github-readme-stats.vercel.app/api/pin/?username=SabanGnc&repo=shutdown&show_owner=true&theme=radical&card_width=468)](https://github.com/SabanGnc/shutdown)
+<p align="center">
+  <a href="https://github.com/SabanGnc/shutdown">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SabanGnc&repo=shutdown&show_owner=true&theme=radical" alt="Proje Adı" width="468">
+  </a>
+</p>
+
 
 </div>
 
