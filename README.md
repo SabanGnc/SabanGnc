@@ -20,6 +20,12 @@
 🙏 Teşekkür ederim ve harika bir gün geçirmenizi dilerim! 🌞
 
 
+<div align="center">
+  <a href="https://github.com/SabanGnc">
+    <img src="https://github.com/SabanGnc/SabanGnc/assets/139702707/cc75e47a-eda0-498f-bc38-1a9a3e6ea37c" alt="Github Stats" width="1200">
+  </a>
+</div>
+
 
 
 
@@ -44,14 +50,21 @@
   </a>
 </div>
 
+
+
 <br/>
 
 <div align="center">
+
+![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/SabanGnc/SabanGnc/assets/139702707/868ce3ab-c7e1-4bc1-bd2b-aab04afe80c4)
+
 
 | Dil     | Proje Sayısı |
 |---------|--------------|
 | C#      | 0            |
 | Python  | 1            |
+
+
 
 </div>
 
@@ -65,3 +78,4 @@
   📧 Email: sabangenc95@gmail.com<br>
   💬 Discord: @vespagnc<br>
 </p>
+
