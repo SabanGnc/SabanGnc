@@ -45,8 +45,8 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/SabanGnc/shutdown">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SabanGnc&repo=shutdown&show_owner=true&theme=radical" alt="Proje Adı" width="468">
+  <a href="https://github.com/SabanGnc/USB-Duplicator">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=SabanGnc&repo=USB-Duplicator&show_owner=true&theme=radical" alt="Proje Adı" width="468">
   </a>
 </div>
 
