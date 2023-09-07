@@ -79,3 +79,9 @@
   💬 Discord: @vespagnc<br>
 </p>
 
+<div align="center">
+  <a href="https://discord.com/users/1061288749213962323">
+    <img src="https://img.shields.io/badge/Discord-%40vespagnc-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+</div>
+
