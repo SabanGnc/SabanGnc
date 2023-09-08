@@ -54,11 +54,6 @@
 
 <br/>
 
-<div align="center">
-
-![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/SabanGnc/SabanGnc/assets/139702707/8de0382a-62dd-419f-9045-916aa3729cae)
-
-</div>
 
 
 
