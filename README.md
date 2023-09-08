@@ -56,15 +56,7 @@
 
 <div align="center">
 
-![212284158-e840e285-664b-44d7-b79b-e264b5e54825](https://github.com/SabanGnc/SabanGnc/assets/139702707/868ce3ab-c7e1-4bc1-bd2b-aab04afe80c4)
-
-
-| Dil     | Proje Sayısı |
-|---------|--------------|
-| C#      | 5            |
-| Python  | 6            |
-
-
+![212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f](https://github.com/SabanGnc/SabanGnc/assets/139702707/8de0382a-62dd-419f-9045-916aa3729cae)
 
 </div>
 
