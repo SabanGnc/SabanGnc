@@ -73,10 +73,10 @@
 
 
 
-<h3 align="center">Connect with me:</h3> 
 <p align="center">
-  📧 Email: sabangenc95@gmail.com<br>
+  <img src="https://github.com/SabanGnc/SabanGnc/assets/139702707/6cd593ce-ddf4-4832-8a11-8b4d5e2682d3" alt="Gif">
 </p>
+
 
 <div align="center">
   <a href="https://discord.com/users/1061288749213962323">
@@ -89,3 +89,6 @@
     <img src="https://img.shields.io/badge/Steam-Profile-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
   </a>
 </div>
+
+
+
