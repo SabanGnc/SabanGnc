@@ -82,5 +82,7 @@
   <a href="https://discord.com/users/1061288749213962323">
     <img src="https://img.shields.io/badge/Discord-%40vespagnc-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
   </a>
+  <a href="https://www.instagram.com/vespagnc/">
+    <img src="https://img.shields.io/badge/Instagram-%40vespagnc-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
 </div>
-
