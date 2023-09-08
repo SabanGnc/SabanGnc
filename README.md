@@ -85,4 +85,7 @@
   <a href="https://www.instagram.com/vespagnc/">
     <img src="https://img.shields.io/badge/Instagram-%40vespagnc-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
   </a>
+  <a href="https://steamcommunity.com/profiles/76561199226728071/">
+    <img src="https://img.shields.io/badge/Steam-Profile-000000?style=for-the-badge&logo=steam&logoColor=white" alt="Steam">
+  </a>
 </div>
