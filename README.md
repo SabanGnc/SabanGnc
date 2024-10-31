@@ -65,8 +65,9 @@
 
 
 <p align="center">
-  <img src="https://github.com/SabanGnc/SabanGnc/assets/139702707/6cd593ce-ddf4-4832-8a11-8b4d5e2682d3" alt="Gif">
+  <img src="https://github.com/user-attachments/assets/0541d9af-4fdd-4594-a98f-082820a5caea" alt="Gif">
 </p>
+
 
 
 <div align="center">
