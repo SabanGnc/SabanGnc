@@ -11,17 +11,17 @@
 </p>
 
 
-### Merhaba! Ben Vexel.dll 👋
+### Hello! I'm Vexel.dll 👋
 
-🌟 Yazılım geliştirme konusunda tutkulu ve teknolojiye ilgili biriyim. C# konusunda az da olsa bilgi sahibiyim, Python'da ise orta düzeyde yeteneklere sahibim. 📚💻 Sürekli öğrenmeye ve kendimi geliştirmeye odaklanıyorum, çünkü yazılım dünyası sürekli olarak değişiyor.
+🌟 I'm passionate about software development and have a keen interest in technology. I have some knowledge of C#, and I'm at an intermediate level in Python. 📚💻 I focus on continuous learning and self-improvement because the software world is constantly changing.
 
-🔍 GitHub profilimde, farklı projelerde çalıştığım ve kişisel projelerimi paylaştığım birçok repository bulabilirsiniz. 🚀 İlgilendiğim alanlar arasında oyun geliştirme 🎮, 2D ve 3D modelleme 🎨, veri analizi 📊 ve web uygulamaları 💻 bulunuyor. Bu alanlarda daha derinleşmek ve yeni teknolojileri keşfetmek için sürekli çaba sarf ediyorum.
+🔍 On my GitHub profile, you can find many repositories where I've worked on various projects and shared my personal projects. 🚀 My areas of interest include game development 🎮, 2D and 3D modeling 🎨, data analysis 📊, and web applications 💻. I'm constantly striving to deepen my knowledge in these areas and explore new technologies.
 
-🌍 Açık kaynak topluluklarına katkıda bulunmaktan keyif alıyorum. Farklı projelerde aktif olarak işbirliği yapıyor ve katkı sağlamak için elimden geleni yapıyorum. Ayrıca, yeni projelerde işbirliği yapmaktan ve deneyimlerimi paylaşmaktan büyük mutluluk duyuyorum. 🤝 Bir projede birlikte çalışmak veya projelerim hakkında daha fazla bilgi almak isterseniz, lütfen benimle iletişime geçmekten çekinmeyin.
+🌍 I enjoy contributing to open-source communities. I actively collaborate on different projects and do my best to provide valuable input. Additionally, I'm thrilled to work on new projects and share my experiences. 🤝 If you're interested in collaborating on a project or want to know more about my work, please feel free to reach out to me.
 
-🔎 GitHub profilimdeki projelerimi keşfedebilir ve takip edebilirsiniz. Herhangi bir geri bildirim veya öneriye açığım ve teknolojiyle ilgili konularda konuşmayı ve yeni insanlarla tanışmayı dört gözle bekliyorum. 🌟 Bana katılın ve birlikte harika şeyler başaralım!
+🔎 You can explore and follow my projects on my GitHub profile. I'm open to any feedback or suggestions, and I'm looking forward to discussing technology-related topics and meeting new people. 🌟 Join me, and let's achieve amazing things together!
 
-🙏 Teşekkür ederim ve harika bir gün geçirmenizi dilerim! 🌞
+🙏 Thank you, and I wish you a wonderful day! 🌞
 
 
 <div align="center">
