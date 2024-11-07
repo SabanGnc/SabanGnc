@@ -1,16 +1,18 @@
 ![68747470733a2f2f63646e612e61727473746174696f6e2e636f6d2f702f6173736574732f696d616765732f696d616765732f3032382f3130322f3035382f6f726967696e616c2f706978656c2d6a6566662d6d61747269782d732e6769663f31353933343837](https://github.com/SabanGnc/SabanGnc/assets/139702707/6ae7e9ce-0f17-46b0-85d1-3eca87f758b5)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+👋+this+is+vexel.dll;See+my+profile+to+see+my+projects;If+you+like+my+projects;Don't+forget+to+press+the+star+⭐+and+fork+;You+can+reach+me+on+discord;Discord:vexel.dll;)](https://git.io/typing-svg)
 
 
-   <p align="center">
+
+  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,cs,python,git,blender,visualstudio,vscode,dotnet,arduino,discord,replit,github,ae,ps" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,unity,unreal,cs,python,git,blender,visualstudio,vscode,dotnet,arduino,discord,replit" />
+    <br/>
+    <img src="https://skillicons.dev/icons?i=github,ae,ps" />
   </a>
 </p>
 
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+👋+this+is+vexel.dll;See+my+profile+to+see+my+projects;If+you+like+my+projects;Don't+forget+to+press+the+star+⭐+and+fork+;You+can+reach+me+on+discord;Discord:vexel.js;)](https://git.io/typing-svg)
 ### Hello! I'm Vexel.dll 👋
 
 🌟 I'm passionate about software development and have a keen interest in technology. I have some knowledge of C#, and I'm at an intermediate level in Python. 📚💻 I focus on continuous learning and self-improvement because the software world is constantly changing.
