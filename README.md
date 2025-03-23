@@ -15,15 +15,15 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+👋+this+is+vexel.dll;See+my+profile+to+see+my+projects;If+you+like+my+projects;Don't+forget+to+press+the+star+⭐+and+fork+;You+can+reach+me+on+discord;Discord:vexel.js;)](https://git.io/typing-svg)
 ### Hello! I'm Vexel.dll 👋
 
-🌟 I'm passionate about software development and have a keen interest in technology. I have some knowledge of C#, and I'm at an intermediate level in Python. 📚💻 I focus on continuous learning and self-improvement because the software world is constantly changing.
+🌟 I'm passionate about software development and technology. With experience in C# and an intermediate level in Python, I focus on continuous learning and self-improvement in this ever-evolving field. 📚💻
 
-🔍 On my GitHub profile, you can find many repositories where I've worked on various projects and shared my personal projects. 🚀 My areas of interest include game development 🎮, 2D and 3D modeling 🎨, data analysis 📊, and web applications 💻. I'm constantly striving to deepen my knowledge in these areas and explore new technologies.
+🚀 I'm the founder of Layer Lab 3D, where I design and produce 3D models using 3D printing technology. My interests extend to game development 🎮, 2D & 3D modeling 🎨, data analysis 📊, and web applications 💻, and I'm always exploring new technologies.
 
-🌍 I enjoy contributing to open-source communities. I actively collaborate on different projects and do my best to provide valuable input. Additionally, I'm thrilled to work on new projects and share my experiences. 🤝 If you're interested in collaborating on a project or want to know more about my work, please feel free to reach out to me.
+🌍 I actively contribute to open-source communities and collaborate on various projects. If you're interested in working together or discussing technology, feel free to reach out! 🤝
 
-🔎 You can explore and follow my projects on my GitHub profile. I'm open to any feedback or suggestions, and I'm looking forward to discussing technology-related topics and meeting new people. 🌟 Join me, and let's achieve amazing things together!
+🔎 Check out my GitHub profile to explore my projects, and let’s create amazing things together!
 
-🙏 Thank you, and I wish you a wonderful day! 🌞
+🙏 Thanks for stopping by, and have an awesome day! 🌞
 
 
 <div align="center">
